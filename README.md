@@ -1,10 +1,9 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Mochammad Randy Surya Bachri**.<br>
-Saya merupakan seorang **Mahasiswa** di Jurusan Sistem Komputer Universitas Sriwijaya.<br>
-Saya tertarik di bidang Machine Learning dan Cyber Security. <br>
-Saat ini saya masih mengembangkan kemampuan saya dalam memahami pemrograman dan algoritmanya. <br>
-Jika tertarik dengan saya, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/randy-bachri-104719283/)ku yaa!
+My name is **Mochammad Randy Surya Bachri**, and I am a student majoring in **Computer Systems** at Sriwijaya University.<br>
+I have a strong interest in the fields of Machine Learning and Cybersecurity. <br>
+Currently, I am working on enhancing my programming skills and understanding of algorithms. <br>
+If you're interested in connecting with me, please feel free to follow my [Linkedin](https://www.linkedin.com/in/randy-bachri-104719283/) account!
 
 ### Github Statistic
 <p align="left">
