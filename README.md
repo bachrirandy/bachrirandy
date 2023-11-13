@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hello! 
 
 My name is **Mochammad Randy Surya Bachri**, and I am a student majoring in **Computer Systems** at Sriwijaya University.<br>
 I have a strong interest in the fields of Machine Learning and Cybersecurity. <br>
