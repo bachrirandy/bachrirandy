@@ -16,6 +16,6 @@ If you're interested in connecting with me, please feel free to follow my social
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
