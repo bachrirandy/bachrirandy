@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 # Hello! <br><br>My name is **Mochammad Randy Surya Bachri**, and I am a student majoring in **Computer Systems** at Sriwijaya University.<br><br>I have a strong interest in the fields of Machine Learning and Cybersecurity. <br><br>Currently, I am working on enhancing my programming skills and understanding of algorithms. <br><br>If you're interested in connecting with me, please feel free to follow my social media!
 
 
