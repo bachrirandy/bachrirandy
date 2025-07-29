@@ -58,8 +58,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bachrirandy&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://streak-stats.demolab.com?user=bachrirandy&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bachrirandy&show_icons=true&theme=gruvbox" height="180" />
+  <img src="https://streak-stats.demolab.com?user=bachrirandy&theme=gruvbox" height="180" />
   
 </p>
 
@@ -74,7 +74,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bachrirandy&theme=tokyonight&margin-w=10&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bachrirandy&theme=gruvbox&margin-w=10&column=4" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 ### 🌟 Daily Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote of the Day" />
 </p>
 
 ---
