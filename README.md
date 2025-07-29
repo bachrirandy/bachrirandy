@@ -95,15 +95,7 @@
 </p>
 
 ---
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/randybachri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 ### 👁 Visitor Counter
 
 <p align="center">
